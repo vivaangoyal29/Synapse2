@@ -32,6 +32,9 @@ app.use(
 app.use("/api/gemini", geminiRoutes);
 app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
+ app.get("/health", (req, res) => {
+   res.status(200).json({ status: "OK", message: "Server is healthy" });
+ });
 
 // PRODUCTION STATIC FILES 
 if (process.env.NODE_ENV === "production") {
