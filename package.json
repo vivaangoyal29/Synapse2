@@ -14,14 +14,13 @@
     "@emoji-mart/data": "^1.2.1",
     "@emoji-mart/react": "^1.1.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nirbhay-kr24/NEXUS-Chat-App.git"
+    "url": "git+https://github.com/vivaangoyal29/synapse2.git"
   },
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Nirbhay-kr24/NEXUS-Chat-App/issues"
+    "url": "https://github.com/vivaangoyal29/synapse2/issues"
   },
-  "homepage": "https://github.com/Nirbhay-kr24/NEXUS-Chat-App#readme"
+  "homepage": "https://github.com/vivaangoyal29/synapse2#readme"
 }
